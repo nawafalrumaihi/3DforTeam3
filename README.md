@@ -9,8 +9,8 @@
 < Make sure the downloaded Mesh stay in the same folder before and after importing at all times >
 
 1) In Unity: IMPORT -> IMPORT NEW ASSET
-2) Select MESH (Remember it should be any of the file type listed above)
-3) Once you see the name of the Mesh (same as fileName) in the Project section, drag and drop the Mesh to Hierarchy Window
+2) Select .blend / .obj / or .fbx file (Remember it should be any of the file type listed above)
+3) Once you see the filename of the Mesh (same as fileName) in the Project section, drag and drop the Mesh to Hierarchy Window
 4) Ensure the Mesh is in center by looking at the Inspector Window in the Transform section and centering the vector coordinates
 
 # NOTES:
