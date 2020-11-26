@@ -10,7 +10,7 @@
 
 1) In Unity: IMPORT -> IMPORT NEW ASSET
 2) Select .blend / .obj / or .fbx file (Remember it should be any of the file type listed above)
-3) Once you see the filename of the Mesh (same as fileName) in the Project section, drag and drop the Mesh to Hierarchy Window
+3) Once the file is uploaded, the filename of the Mesh in the Project section, drag and drop the Mesh to Hierarchy Window
 4) Ensure the Mesh is in center by looking at the Inspector Window in the Transform section and centering the vector coordinates
 
 # NOTES:
