@@ -1,18 +1,18 @@
 # 3DforTeam3
 Most 3D Models for this game will be made mostly with Blender, so please download .blend files for the best results
 
-# FILETYPES:
+# Filetypes
 .blend
 .obj
 .fbx
 
 
-# MAKE SURE BLENDER IS INSTALLED ON YOUR COMPUTER
+# Make sure Blender is installed on your computer
 * Blender has to be installed before importing .blend files onto Unity
 * download link: https://www.blender.org
 
 
-# INSTRUCTIONS FOR IMPORTING TO UNITY:
+# Instructions to Import 3D Objects onto Unity
 < Make sure the downloaded 3D Object stays in the same folder before and after importing at all times >
 
 1) In Unity: IMPORT -> IMPORT NEW ASSET
@@ -21,7 +21,7 @@ Most 3D Models for this game will be made mostly with Blender, so please downloa
 4) Ensure the Mesh is in center by looking at the Inspector Window in the Transform section and centering the vector coordinates
 
 
-# BLENDER TO UNITY TIPS:
+# Blender to Unity Tips
 To make it easier to manage 3D Objects in Unity. After Importing A Blender File:
 1) Right click on the Collection Asset in Hierarchy Window (The name of the .Blend file)
 2) Select Unpack Prefab Completely
@@ -29,15 +29,15 @@ This is equivalent to unpacking the Prefab, and keeping on unpacking any Prefab 
 https://docs.unity3d.com/Manual/UnpackingPrefabInstances.html
 
 
-# NOTES:
+# Additional notes
 * Make sure the downloaded 3D Ojects stay in the same folder before importing
 * Always make sure the 3D Object File Type will stay in the Project's Assets Folder
 * Materalize 3D Object in Unity
 
 
-# CREATING BLENDER FILES?
+# Creating 3D Objects using Blender?
 * Make sure -> (Lights and Camera) are removed before exporting in Blender
-* Center all 3D Models into the following position (0,0,0)
+* Center all 3D Models to the following x,y,z position (0,0,0)
 
-If any issues occur with downloading any of the 3D files, message me on Twitter or Discord!
+If any issues occur with downloading/creating any of the 3D objects, message me on Twitter or Discord!
 #happygamedev
