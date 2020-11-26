@@ -41,3 +41,4 @@ https://docs.unity3d.com/Manual/UnpackingPrefabInstances.html
 
 If any issues occur with downloading/creating any of the 3D objects, message me on Twitter or Discord!
 #happygamedev
+@strangerincolor
