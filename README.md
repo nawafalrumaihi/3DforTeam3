@@ -17,7 +17,7 @@
 * Make sure the downloaded Mesh stay in the same folder before Importing
 * Always make sure the 3D Mesh File Type will stay in the Project's Assets Folder
 * Materalize Mesh in Unity, not in Blender or any other 3D Software (Makes it easier for programmers for rendering)
-* If Importing from Blender, make sure -> (Lights and Camera) are removed before saving
+* If Importing from Blender, make sure -> (Lights and Camera) are removed before exporting
 
 # BLENDER TO UNITY TIPS
 To make it easier to manage meshesh, especially in a file with a lot of objects. After Importing:
